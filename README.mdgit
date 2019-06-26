@@ -1,0 +1,2 @@
+"# secondExam"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/andresos08725/secondExam.gitgit push -u origin master
+"# secondExam"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/andresos08725/secondExam.gitgit push -u origin master
